@@ -1,0 +1,15 @@
+{
+    "title": "DDoSer - Main Menu",
+    "version": "1.0.0",
+    "description": "DDoS Attack Tool for Educational Purposes",
+    "menu_items": [
+        {"key": "R", "action": "run_attack", "description": "Run/Stop Attack"},
+        {"key": "F1", "action": "add_target", "description": "Add/Edit Target"},
+        {"key": "F2", "action": "network_config", "description": "Network Configuration"},
+        {"key": "F3", "action": "view_stats", "description": "View Statistics"},
+        {"key": "F4", "action": "save_config", "description": "Save Configuration"},
+        {"key": "F5", "action": "load_preset", "description": "Load Preset"},
+        {"key": "Q", "action": "quit", "description": "Quit Application"},
+        {"key": "?", "action": "show_help", "description": "Show Help"}
+    ]
+}
