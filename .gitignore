@@ -1,0 +1,9 @@
+build/
+*.o
+*.a
+ddoser
+*.swp
+*.swo
+.vscode/
+.idea/
+.DS_Store
