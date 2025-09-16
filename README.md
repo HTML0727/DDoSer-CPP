@@ -7,7 +7,7 @@ A network penetration testing framework designed for security research and educa
 ## Project Structure
 ```
 
-DDoSer/
+DDoSer-cpp/
 ├──CMakeLists.txt
 ├──README.md
 ├──ZH.README.md
