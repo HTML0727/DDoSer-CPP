@@ -117,8 +117,8 @@ DDoSer-CPP/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DDoSer.git
-   cd DDoSer
+   git clone https://github.com/HTML0727/DDoSer-CPP.git
+   cd DDoSer-CPP
 ```
 
 1. Install dependencies:
