@@ -1,0 +1,20 @@
+{
+    "attack_types": [
+        {"name": "ARP", "description": "ARP Spoofing Attack"},
+        {"name": "ICMP", "description": "ICMP Flood Attack"},
+        {"name": "TCP", "description": "TCP SYN Flood Attack"},
+        {"name": "UDP", "description": "UDP Flood Attack"},
+        {"name": "DNS", "description": "DNS Amplification Attack"}
+    ],
+    "default_settings": {
+        "packet_size": 64,
+        "delay_ms": 100,
+        "duration": 60,
+        "intensity": 10
+    },
+    "network_interfaces": [
+        "eth0",
+        "wlan0",
+        "lo"
+    ]
+}
